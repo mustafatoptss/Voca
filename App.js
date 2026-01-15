@@ -4,9 +4,10 @@ import MainTabs from "./src/navigation/MainTabs";
 import LoginScreen from "./src/screens/LoginScreen";
 
 export default function App() {
-
-
   
+
+
+
   const [loggedIn, setLoggedIn] = useState(false);
 
   return (
