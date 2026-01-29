@@ -7,7 +7,8 @@ export default function HomeScreen() {
     <View style={{ 
       flex: 1, 
       backgroundColor: COLORS.background.app,
-      padding: 20
+      padding:20
+    
     }}>
       <Text style={{ 
         fontFamily: FONTS.family.semiBold,
