@@ -4,11 +4,13 @@ export const COLORS = {
     app: "#F9FBFC",        // Off-white main background
     card: "#FFFFFF",       // Card surfaces
     divider: "#F1F3F5",    // Borders / dividers
+    button: "#2BEE9D",
+    darkGreen: "#4C9A79",    
   },
 
   // 2️⃣ Brand & Accent Colors
   brand: {
-    primaryMint: "#B2EBF2",     // Primary buttons, active states
+    primaryMint: "#2BEE9D",     // Primary buttons, active states
     secondaryBlue: "#E3F2FD",   // Secondary highlights
     softLavender: "#F3E5F5",    // Scenario / category cards
     mellowYellow: "#FFF9C4",    // Daily highlight / glow
@@ -25,6 +27,7 @@ export const COLORS = {
   text: {
     title: "#2D3436",       // Main headings (Deep Navy)
     body: "#636E72",        // Body text
-    placeholder: "#B2BEC3" // Placeholder / disabled text
+    placeholder: "#B2BEC3",
+    girisColor:"#94C3B0", // Placeholder / disabled text
   }
 };
